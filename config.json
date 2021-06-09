@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "nick": "AlexCooper",
+      "servers": [
+        "Classic",
+        "TechnoMagicS1",
+        "TechnoMagicS2",
+        "WonderLand",
+        "RevertingCapture"
+      ],
+      "chat_id": 247949013
+    }
+  ]
+}
